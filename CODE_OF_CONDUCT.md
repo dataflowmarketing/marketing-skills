@@ -20,7 +20,7 @@ This community works best when people can think clearly, disagree respectfully a
 
 If behaviour crosses the line in issues, pull requests, comments or direct communication, access may be limited or removed. The aim is to protect the community, not to prolong conflict.
 
-To report something, email matt@mattcameron.me.
+To report something, email matt@influencer.tips.
 
 ## Attribution
 

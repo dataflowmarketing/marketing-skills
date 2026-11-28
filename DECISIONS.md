@@ -1143,3 +1143,9 @@ Why marketing-skills works the way it does. Each entry is a choice made over a r
 **Over:** sending whatever was asked; changing any field
 **Why:** how dfm already wrote answers (pnpm answer: choices word for word, a list for a pick list); a ledger's field has its own version check and read back in object-change; the run log and backups should not hold a member's address
 **Source:** inferred
+
+## 2026-11-28: The contact email is matt@influencer.tips
+**Chose:** matt@influencer.tips in the README, contributing guide, code of conduct and package.json (contact and author)
+**Over:** matt@mattcameron.me
+**Why:** his call: the address questions and reports go to
+**Source:** stated

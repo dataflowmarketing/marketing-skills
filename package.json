@@ -17,14 +17,14 @@
   "homepage": "https://dataflow.marketing",
   "bugs": {
     "url": "https://github.com/dataflow-marketing/marketing-skills/issues",
-    "email": "matt@mattcameron.me"
+    "email": "matt@influencer.tips"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dataflow-marketing/marketing-skills.git"
   },
   "license": "MIT",
-  "author": "mattcam <matt@mattcameron.me>",
+  "author": "mattcam <matt@influencer.tips>",
   "type": "module",
   "engines": {
     "node": ">=24"

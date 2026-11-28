@@ -8,7 +8,7 @@ Marketing skills for Claude from [dataflow.marketing](https://dataflow.marketing
 
 This is based on real work I'm currently doing at [influencer.tips](https://www.influencer.tips/). It is an opportunity to share the method.
 
-Questions are welcome: email me at matt@mattcameron.me. Feel welcome to raise an [issue](https://github.com/dataflow-marketing/marketing-skills/issues). Everyone taking part follows the [code of conduct](CODE_OF_CONDUCT.md).
+Questions are welcome: email me at matt@influencer.tips. Feel welcome to raise an [issue](https://github.com/dataflow-marketing/marketing-skills/issues). Everyone taking part follows the [code of conduct](CODE_OF_CONDUCT.md).
 
 **Status: the first loop works: a recording becomes a checked draft post on Ghost.** The shared formats come first: [spec 1](spec/README.md) is a draft. More are being written now; [the plan](#the-plan-and-where-it-is-up-to) shows where each part is up to.
 
