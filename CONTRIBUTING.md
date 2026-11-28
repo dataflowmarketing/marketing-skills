@@ -2,7 +2,7 @@
 
 Pull requests are welcome. mattcam reviews every one and decides what is merged.
 
-For a question or an idea, [raise an issue](https://github.com/dataflow-marketing/marketing-skills/issues) or email matt@mattcameron.me.
+For a question or an idea, [raise an issue](https://github.com/dataflow-marketing/marketing-skills/issues) or email matt@influencer.tips.
 
 Everyone taking part follows the [code of conduct](CODE_OF_CONDUCT.md).
 

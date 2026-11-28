@@ -873,3 +873,9 @@ Why marketing-skills works the way it does. Each entry is a choice made over a r
 **Over:** adding it beside the earlier repeat, which left the step running from the old date
 **Why:** moving when a step starts (a pause until a later week) is a real change a person asks for; with two repeats the step would run from both dates
 **Source:** stated (fix plan-change first), inferred (one repeat a step)
+
+## 2026-11-28: The contact email is matt@influencer.tips
+**Chose:** matt@influencer.tips in the README, contributing guide, code of conduct and package.json (contact and author)
+**Over:** matt@mattcameron.me
+**Why:** his call: the address questions and reports go to
+**Source:** stated
